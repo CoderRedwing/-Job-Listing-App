@@ -1,0 +1,21 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+backend/src/data/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Build artifacts
+frontend/dist/
+backend/build/
+backend/.next/  # if you're using Next.js later
+
+# Logs
+*.log
+
+# OS and editor settings
+.DS_Store
+.env
+.vscode/
