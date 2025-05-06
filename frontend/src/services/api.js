@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'http://localhost:5000' });
+const API = axios.create({ baseURL: 'https://job-listing-app-4evp.onrender.com' });
 
 export const fetchJobs = async (filters = {}) => {
   const response = await API.get('/jobs', {
