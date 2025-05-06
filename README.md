@@ -58,8 +58,8 @@ GET /jobs?page=1\&limit=150\&min\_exp=0\&max\_exp=2\&location=Delhi\&source=Link
 
 > Replace these links once deployed
 
-- **Frontend URL**: [https://your-frontend-link.com](https://your-frontend-link.com)
-- **Backend API**: [https://your-backend-link.com](https://your-backend-link.com)
+- **Frontend URL**: [https://job-listing-app-wheat.vercel.app/](https://job-listing-app-wheat.vercel.app/)
+- **Backend API**: [https://job-listing-app-4evp.onrender.com/jobs?&page=1](https://job-listing-app-4evp.onrender.com/jobs?&page=1)
 
 ---
 
